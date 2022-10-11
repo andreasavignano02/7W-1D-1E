@@ -1,0 +1,23 @@
+body{
+    background-color: blue;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin-top: 10px;
+}
+button{
+    width: 100px;
+    margin-top: 10px;
+}
+#container{
+    font-size: 2rem;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 10px;
+}
